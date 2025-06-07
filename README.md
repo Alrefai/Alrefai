@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hey, I'm Mohammed! 👋
 
-<!--
-**Alrefai/Alrefai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I architect resilient systems where elegant code meets exceptional user experience.
 
-Here are some ideas to get you started:
+🔧 **Background**: Full-Stack Engineer with systems thinking from mechanical engineering. I love bringing engineering precision to TypeScript & cloud-native architectures!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Focus**: React frontends, Node/Deno backends, serverless architectures, edge computing  
+
+🔐 **Philosophy**: Security-first 🔒, Privacy-always 🛡️, Performance-driven ⚡
+
+🎯 **Approach**: Functional programming with obsessive attention to type safety (TypeScript strict mode is my happy place 🤓)
+
+🚀 **Currently exploring**: Edge databases, Local-first development, and the Deno ecosystem
+
+*"Where most see code, I see systems waiting to be optimized."*
+
+Feel free to reach out if you want to chat about web development, cloud architecture, or share exciting TypeScript discoveries!
